@@ -10,5 +10,5 @@ Game Design
 - Virtual Stranger Things Experience
 
 Coding
-- Machine Leanring [Machine Learning](https://github.com/JesseYang1017/machine_learning.git)
+- [Machine Learning](https://github.com/JesseYang1017/machine_learning.git)
 
