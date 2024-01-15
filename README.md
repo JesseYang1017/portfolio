@@ -7,7 +7,8 @@ Game Design, Certificate
 ### Projects
 Game Design
 - RPG Adventure Game
-- 
+  ![41d9c0f68a8ab796642df3d3b71b86a6](https://github.com/JesseYang1017/portfolio/assets/155484794/9aecab5d-42eb-47d0-8a08-3997f5c979fb)
+
   <img width="610" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/3881c22c-bcd1-47da-9736-574c1c88bf43">
   
 
