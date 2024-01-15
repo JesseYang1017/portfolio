@@ -12,7 +12,7 @@ Game Design
 
 - [Virtual Stranger Things Experience](https://github.com/JesseYang1017/Virtual_Reality.git)
   
-<img width="619" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/89efe5f8-b89d-4a86-a581-09eb16c4e679">
+  <img width="619" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/89efe5f8-b89d-4a86-a581-09eb16c4e679">
 
 
 
