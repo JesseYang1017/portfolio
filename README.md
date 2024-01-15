@@ -4,8 +4,8 @@ Computer Science, BS
 
 Game Design, Certificate
 
-## Projects
-## Game Design
+### Projects
+Game Design
 - RPG Adventure Game
   
   <img width="619" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/52521ee4-5dcd-45b3-985d-07eadb5f2f42">
@@ -16,6 +16,6 @@ Game Design, Certificate
 
 
 
-## Coding
+Coding
 - [Machine Learning](https://github.com/JesseYang1017/machine_learning.git)
 
