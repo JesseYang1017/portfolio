@@ -8,7 +8,7 @@ Game Design, Certificate
 Game Design
 - RPG Adventure Game
 - 
-  <img width="619" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/3881c22c-bcd1-47da-9736-574c1c88bf43">
+  <img width="610" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/3881c22c-bcd1-47da-9736-574c1c88bf43">
   
 
 - [Virtual Stranger Things Experience](https://github.com/JesseYang1017/Virtual_Reality.git)
@@ -16,7 +16,7 @@ Game Design
 
   ![bbe0973eed0c0b26907fef776a7f5b55](https://github.com/JesseYang1017/portfolio/assets/155484794/f2876ac3-a22f-4db1-bd95-1b1cbdc258d4)
 
-  <img width="619" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/89efe5f8-b89d-4a86-a581-09eb16c4e679">
+  <img width="610" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/89efe5f8-b89d-4a86-a581-09eb16c4e679">
 
 
 
