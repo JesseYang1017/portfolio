@@ -1,5 +1,6 @@
-# Computer Science Student
 ### Education
+University of Wisconsin - Madison:
+
 Computer Science, BS
 
 Game Design, Certificate
