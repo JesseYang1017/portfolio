@@ -1,9 +1,9 @@
 ### Education
 University of Wisconsin - Madison:
 
-Computer Science, BS
+  Computer Science, BS
 
-Game Design, Certificate
+  Game Design, Certificate
 
 ### Projects
 Game Design
