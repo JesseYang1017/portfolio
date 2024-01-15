@@ -19,3 +19,6 @@ Game Design
 Coding
 - [Machine Learning](https://github.com/JesseYang1017/machine_learning.git)
 
+  <img width="116" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/1b8bc2cf-0b95-4dc5-a858-84578787fa50">
+
+
