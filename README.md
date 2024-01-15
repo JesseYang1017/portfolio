@@ -4,9 +4,10 @@ Computer Science, BS
 
 Game Design, Certificate
 
-### Projects
+## Projects
 ## Game Design
 - RPG Adventure Game
+  
   <img width="619" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/52521ee4-5dcd-45b3-985d-07eadb5f2f42">
 
 - [Virtual Stranger Things Experience](https://github.com/JesseYang1017/Virtual_Reality.git)
