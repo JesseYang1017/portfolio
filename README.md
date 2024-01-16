@@ -9,7 +9,8 @@ University of Wisconsin - Madison:
 Game Design
 - RPG Adventure Game
   
-  ![41d9c0f68a8ab796642df3d3b71b86a6](https://github.com/JesseYang1017/portfolio/assets/155484794/9aecab5d-42eb-47d0-8a08-3997f5c979fb)
+  ![01d596e8d6376e905d5d8cf82386ea64](https://github.com/JesseYang1017/portfolio/assets/155484794/350b4f7d-4246-43ea-bb5d-ecf487ecd414)
+
 
   <img width="610" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/fb6b7609-55a2-48c5-b683-58919f5e1c28">
 
