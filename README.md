@@ -12,9 +12,7 @@ Game Design
   ![01d596e8d6376e905d5d8cf82386ea64](https://github.com/JesseYang1017/portfolio/assets/155484794/350b4f7d-4246-43ea-bb5d-ecf487ecd414)
 
   ![Untitled video - Made with Clipchamp](https://github.com/JesseYang1017/portfolio/assets/155484794/96192043-d3dc-4075-a7ae-104db3d91c92)
-
-  <img width="610" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/fb6b7609-55a2-48c5-b683-58919f5e1c28">
-
+  
   
 
 - [Virtual Stranger Things Experience](https://github.com/JesseYang1017/Virtual_Reality.git)
