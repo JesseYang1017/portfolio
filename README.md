@@ -27,7 +27,7 @@ Game Design
 
 - [Virtual Stranger Things Experience (Github link)](https://github.com/JesseYang1017/Virtual_Reality.git)
   
-  This project is a VR recreation of Vecna's world from Stranger Things, offering users the unique experience of walking around and exploring the iconic setting.
+  Final project for CS 579: Virtual Reality. This project is a VR recreation of Vecna's world from Stranger Things, offering users the unique experience of walking around and exploring the iconic setting.
   
   
 
