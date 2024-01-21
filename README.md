@@ -7,11 +7,14 @@ University of Wisconsin - Madison:
 
 ### Projects
 Game Design
-- RPG Adventure Game
+- [RPG Adventure Game: Blockzard](https://github.com/JesseYang1017/Blockzard_RPG.git)
+  Blockzard is an RPG game, which players as Blockzard complete quests to save the village.
+
+  [Game Demo](https://youtu.be/TDtlElwBa54)
   
   ![01d596e8d6376e905d5d8cf82386ea64](https://github.com/JesseYang1017/portfolio/assets/155484794/350b4f7d-4246-43ea-bb5d-ecf487ecd414)
 
-  ![Untitled video - Made with Clipchamp](https://github.com/JesseYang1017/portfolio/assets/155484794/96192043-d3dc-4075-a7ae-104db3d91c92)
+  
   
   
 
