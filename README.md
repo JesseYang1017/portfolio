@@ -11,9 +11,9 @@ Game Design
   
   Blockzard is an RPG game, which players as Blockzard complete quests to save the village.
 
-  [Game Demo](https://youtu.be/TDtlElwBa54)
+  [<img width="1280" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/f40ea9c4-e812-40ae-a8f4-99cc8d492696">
+](https://youtu.be/TDtlElwBa54)
   
-  ![01d596e8d6376e905d5d8cf82386ea64](https://github.com/JesseYang1017/portfolio/assets/155484794/350b4f7d-4246-43ea-bb5d-ecf487ecd414)
 
   
   
