@@ -15,7 +15,7 @@ Game Design
 
   Click image to view game demo ↓ 
 
-  [<img width="610" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/f40ea9c4-e812-40ae-a8f4-99cc8d492696">
+  [<img width="620" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/f40ea9c4-e812-40ae-a8f4-99cc8d492696">
 ](https://youtu.be/TDtlElwBa54)
   
 
