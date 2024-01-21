@@ -13,7 +13,7 @@ Game Design
   and character progression through leveling up. Exploring an expansive world, players uncover hidden secrets and manage the village's well-being.
   
 
-  Click image to view game demo ↓ 
+  **Click on image to view game demo ↓**
 
   [<img width="620" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/f40ea9c4-e812-40ae-a8f4-99cc8d492696">
 ](https://youtu.be/TDtlElwBa54)
@@ -27,7 +27,7 @@ Game Design
 
 - [Virtual Stranger Things Experience (Github link)](https://github.com/JesseYang1017/Virtual_Reality.git)
   
-  project is a VR recreation of Vecna's world from Stranger Things, offering users the unique experience of walking around and exploring the iconic setting.
+  This project is a VR recreation of Vecna's world from Stranger Things, offering users the unique experience of walking around and exploring the iconic setting.
   
   
 
