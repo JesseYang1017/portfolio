@@ -24,7 +24,9 @@ Game Design
   
 
 - [Virtual Stranger Things Experience (Github link)](https://github.com/JesseYang1017/Virtual_Reality.git)
+- 
   This project is a VR recreation of Vecna's world from Stranger Things, offering users the unique experience of walking around and exploring the iconic setting.
+  
   
 
   ![bbe0973eed0c0b26907fef776a7f5b55](https://github.com/JesseYang1017/portfolio/assets/155484794/f2876ac3-a22f-4db1-bd95-1b1cbdc258d4)
@@ -35,6 +37,9 @@ Game Design
 
 Coding
 - [Machine Learning (Github link)](https://github.com/JesseYang1017/machine_learning.git)
+
+  Projects include implementing the A* algorithm for optimal pathfinding, applying clustering techniques for data grouping, developing Q-learning for reinforcement learning, using the MinMax algorithm for game strategy, and training 
+  Convolutional Neural Networks for image recognition. 
 
   <img width="116" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/1b8bc2cf-0b95-4dc5-a858-84578787fa50">
 
