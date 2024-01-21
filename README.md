@@ -13,7 +13,7 @@ Game Design
   and character progression through leveling up. Exploring an expansive world, players uncover hidden secrets and manage the village's well-being.
   
 
-  **Click on image to view game demo ↓**
+  **Click on image to view my game demo ↓**
 
   [<img width="620" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/f40ea9c4-e812-40ae-a8f4-99cc8d492696">
 ](https://youtu.be/TDtlElwBa54)
