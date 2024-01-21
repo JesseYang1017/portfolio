@@ -9,7 +9,8 @@ University of Wisconsin - Madison:
 Game Design
 - [RPG Adventure Game: Blockzard (Github link)](https://github.com/JesseYang1017/Blockzard_RPG.git)
   
-  Blockzard is an RPG game, which players as Blockzard complete quests to save the village. It contains elements including NPC interaction, quests completion, killing monsters, etc.
+  Blockzard is a captivating RPG where players, as Blockzard, take on quests to save the village. The game features dynamic NPC interactions, completing quests, strategic monster battles, 
+  and character progression through leveling up. Exploring an expansive world, players uncover hidden secrets and manage the village's well-being.
   
 
   Click image to view game demo ↓ 
