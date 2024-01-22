@@ -7,7 +7,7 @@ University of Wisconsin - Madison:
 
 ### Projects
 Game Design
-- [RPG Adventure Game: Blockzard (Github link)](https://github.com/JesseYang1017/Blockzard.git)
+- [RPG Adventure Game: Blockzard (GitHub link)](https://github.com/JesseYang1017/Blockzard.git)
   
   Blockzard is a captivating RPG where players, as Blockzard, take on quests to save the village. The game features dynamic NPC interactions, completing quests, strategic monster battles, 
   and character progression through leveling up. Exploring an expansive world, players uncover hidden secrets and manage the village's well-being.
@@ -24,7 +24,7 @@ Game Design
   
   
 
-- [Virtual Stranger Things Experience (Github link)](https://github.com/JesseYang1017/Virtual_Reality.git)
+- [Virtual Stranger Things Experience (GitHub link)](https://github.com/JesseYang1017/Virtual_Reality.git)
   
   Final project for CS 579: Virtual Reality. This project is a VR recreation of Vecna's world from Stranger Things, offering users the unique experience of walking around and exploring the iconic setting.
   
@@ -37,7 +37,7 @@ Game Design
 
 
 Coding
-- [Machine Learning (Github link)](https://github.com/JesseYang1017/machine_learning.git)
+- [Machine Learning (GitHub link)](https://github.com/JesseYang1017/machine_learning.git)
 
   Projects include implementing the A* algorithm for optimal pathfinding, applying clustering techniques for data grouping, developing Q-learning for reinforcement learning, using the MinMax algorithm for game strategy, and training 
   Convolutional Neural Networks for image recognition. Projects used PyTorch and Gym.
