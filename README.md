@@ -40,7 +40,7 @@ Coding
 - [Machine Learning (Github link)](https://github.com/JesseYang1017/machine_learning.git)
 
   Projects include implementing the A* algorithm for optimal pathfinding, applying clustering techniques for data grouping, developing Q-learning for reinforcement learning, using the MinMax algorithm for game strategy, and training 
-  Convolutional Neural Networks for image recognition. 
+  Convolutional Neural Networks for image recognition. Projects used PyTorch and Gym.
 
   <img width="116" alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/1b8bc2cf-0b95-4dc5-a858-84578787fa50">
 
