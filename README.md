@@ -36,7 +36,9 @@ Game Design
 
 - [Space Travler (Puzzle Script)](https://www.puzzlescript.net/play.html?p=ad1c49afed359e6458ca88dd0821231e)
 
-  <img width="620 alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/8baa47cc-98bf-468a-979f-bbf271df0d5a">
+  <img width="400" alt="Screenshot 2024-03-21 143645" src="https://github.com/JesseYang1017/portfolio/assets/155484794/f4eb9455-4bbc-46c7-b096-1f1067c94dc6">
+
+  
   
 
 
