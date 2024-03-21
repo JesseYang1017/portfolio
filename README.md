@@ -34,6 +34,19 @@ Game Design
 
 
 
+- [Space Travler (Puzzle Script)](https://www.puzzlescript.net/play.html?p=ad1c49afed359e6458ca88dd0821231e)
+
+  <img width="620 alt="image" src="https://github.com/JesseYang1017/portfolio/assets/155484794/8baa47cc-98bf-468a-979f-bbf271df0d5a">
+  
+
+
+- [Catch the Goat(p5js)](https://editor.p5js.org/xyang552/sketches/XBBngn7uZ)
+
+  
+
+
+
+
 
 
 Coding
