@@ -15,26 +15,30 @@ University of Wisconsin - Madison:
 Research
     - [NIST Project (Github)](https://github.com/widVE/NIST.git)
 
-    This project addresses the complex challenges of indoor navigation and collaboration, particularly to support first responders in emergency situations. My contribution involved     implementing a 3D volumetric map in Unity to improve situational awareness and enable the commander to better visualize and direct the teams.
+This project addresses the complex challenges of indoor navigation and collaboration, particularly to support first responders in emergency situations. My contribution involved     implementing a 3D volumetric map in Unity to improve situational awareness and enable the commander to better visualize and direct the teams.
 
-    In this setup, two teams operate inside a hazardous area, such as a burning building, while a remote commander oversees their operations. Each team member and the commander use HoloLens headsets for real-time data sharing and communication. Specifically, the search team, equipped with HoloLens 2 headsets, scans the environment, sending structural model data to the server and placing markers on critical features, like biohazard zones or victim locations.
+In this setup, two teams operate inside a hazardous area, such as a burning building, while a remote commander oversees their operations. Each team member and the commander use HoloLens headsets for real-time data sharing and communication. Specifically, the search team, equipped with HoloLens 2 headsets, scans the environment, sending structural model data to the server and placing markers on critical features, like biohazard zones or victim locations.
 
-    The server manages an array of data, including maps, features, headset details, and navigation paths. With this setup, the commander spawn the volumetric map on a flat surface, like a 
-    table. This map can be clipped within an adjustable volume, allowing the commander to view only selected portions, or manipulated freely by zooming and rotating. Real-time updates, such 
-    as feature markers and the animated avatars of responders within the building, are streamed via a WebSocket connection.
+The server manages an array of data, including maps, features, headset details, and navigation paths. With this setup, the commander spawn the volumetric map on a flat surface, like a 
+table. This map can be clipped within an adjustable volume, allowing the commander to view only selected portions, or manipulated freely by zooming and rotating. Real-time updates, such 
+as feature markers and the animated avatars of responders within the building, are streamed via a WebSocket connection.
 
-    To direct responders efficiently, the commander can drag an avatar to a designated marker—such as a victim's location—prompting Unity's NavMesh to generate a navigation path. This path 
-    displays both on the server and to the specific responder. By following the path, the responder can accurately reach the designated point, ensuring prompt and coordinated actions during 
-    the mission.
+To direct responders efficiently, the commander can drag an avatar to a designated marker—such as a victim's location—prompting Unity's NavMesh to generate a navigation path. This path 
+displays both on the server and to the specific responder. By following the path, the responder can accurately reach the designated point, ensuring prompt and coordinated actions during 
+the mission.
 
-    **Click to view Unity demo**
+
+  **Click to view Unity demo**
 
 
     [<img width="620" alt="image" src="https://github.com/user-attachments/assets/7b10f9a4-e434-487a-8297-caf27bedd721">](https://www.youtube.com/watch?v=4kMo8Q_tIMQ&feature=youtu.be)
 
+  **View From Hololense Headset**  
+    [<img width="620" alt="image" src="https://github.com/user-attachments/assets/0b3fbc6e-656f-4965-9f34-d520ea83a28c">](https://www.youtube.com/watch?v=usdFzVCe7NM)
+
+
   
 
- 
 
 Game Design
 - [RPG Adventure Game: Blockzard (GitHub link)](https://github.com/JesseYang1017/Blockzard.git)
