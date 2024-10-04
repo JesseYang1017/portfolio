@@ -13,7 +13,8 @@ University of Wisconsin - Madison:
 
 ### Projects
 Research
-    - [NIST Project (Github)](https://github.com/widVE/NIST.git)
+
+- [NIST Project (Github link)](https://github.com/widVE/NIST.git)
 
 This project addresses the complex challenges of indoor navigation and collaboration, particularly to support first responders in emergency situations. My contribution involved     implementing a 3D volumetric map in Unity to improve situational awareness and enable the commander to better visualize and direct the teams.
 
