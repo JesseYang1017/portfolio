@@ -29,8 +29,6 @@ the mission.
 
 
   **Click to view Unity demo**
-
-
     [<img width="620" alt="image" src="https://github.com/user-attachments/assets/7b10f9a4-e434-487a-8297-caf27bedd721">](https://www.youtube.com/watch?v=4kMo8Q_tIMQ&feature=youtu.be)
 
   **View From Hololense Headset**  
