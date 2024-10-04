@@ -29,10 +29,14 @@ the mission.
 
 
   **Click to view Unity demo**
-    [<img width="620" alt="image" src="https://github.com/user-attachments/assets/7b10f9a4-e434-487a-8297-caf27bedd721">](https://www.youtube.com/watch?v=4kMo8Q_tIMQ&feature=youtu.be)
+  
+  
+[<img width="620" alt="image" src="https://github.com/user-attachments/assets/7b10f9a4-e434-487a-8297-caf27bedd721">](https://www.youtube.com/watch?v=4kMo8Q_tIMQ&feature=youtu.be)
 
   **View From Hololense Headset**  
-    [<img width="620" alt="image" src="https://github.com/user-attachments/assets/0b3fbc6e-656f-4965-9f34-d520ea83a28c">](https://www.youtube.com/watch?v=usdFzVCe7NM)
+  
+
+[<img width="620" alt="image" src="https://github.com/user-attachments/assets/0b3fbc6e-656f-4965-9f34-d520ea83a28c">](https://www.youtube.com/watch?v=usdFzVCe7NM)
 
 
   
