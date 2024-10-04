@@ -23,7 +23,9 @@ The server manages an array of data, including maps, features, headset details, 
 
 To direct responders efficiently, the commander can drag an avatar to a designated marker—such as a victim's location—prompting Unity's NavMesh to generate a navigation path. This path displays both on the server and to the specific responder. By following the path, the responder can accurately reach the designated point, ensuring prompt and coordinated actions during the mission.
 
-**Unity Demo**
+**Click to view Unity demo**
+
+
 [<img width="620" alt="image" src="https://github.com/user-attachments/assets/7b10f9a4-e434-487a-8297-caf27bedd721">](https://www.youtube.com/watch?v=4kMo8Q_tIMQ&feature=youtu.be)
 
   
