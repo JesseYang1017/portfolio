@@ -1,12 +1,12 @@
-### Contact Information
+## Contact Information
 email: jesseyang123@outlook.com
 
 phone: (608)658-2695
 
 
-### Education
+## Education
 
-## University of Wisconsin - Madison
+### University of Wisconsin - Madison
 
 Computer Science, BS
 
@@ -14,7 +14,7 @@ Game Design, Certificate
 
 
 
-### Projects
+## Projects
 Research
 
 - [NIST Project (Github link)](https://github.com/widVE/NIST.git)
