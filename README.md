@@ -47,7 +47,8 @@ the mission.
   
   ### Vanitas
   
-  ![final render](https://github.com/user-attachments/assets/462a9e6f-0165-4810-9524-f1988e1303c0){width=620 height=620}
+  <img width="620" height="620" alt="image" src="https://github.com/user-attachments/assets/dad5f59f-9315-41bf-9e73-2a34fc83eecc">
+
 
   
 
