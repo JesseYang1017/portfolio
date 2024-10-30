@@ -6,7 +6,7 @@ phone: (608)658-2695
 
 ### Education
 
-### University of Wisconsin - Madison
+## University of Wisconsin - Madison
 
 Computer Science, BS
 
