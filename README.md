@@ -44,12 +44,15 @@ the mission.
 
 
   ### 3D Modeling
-  Vanitas
   
-  ![front_no_hat](https://github.com/user-attachments/assets/5310f531-3ddb-40cf-97bc-cc602c3d4467)
+  ### Vanitas
+  
+  ![final render](https://github.com/user-attachments/assets/462a9e6f-0165-4810-9524-f1988e1303c0)
+
+  
 
 
-  Avatar
+  ### Avatar
   
   ![image](https://github.com/user-attachments/assets/dad5f59f-9315-41bf-9e73-2a34fc83eecc)
   ![final2](https://github.com/user-attachments/assets/17025067-0374-4d01-a379-a3a2de18086a)
