@@ -14,8 +14,9 @@ Game Design, Certificate
 
 
 
+
 ## Projects
-Research
+### Research (REU Program, Athena - Duke University)
 
 - [NIST Project (Github link)](https://github.com/widVE/NIST.git)
 
@@ -42,11 +43,28 @@ the mission.
   [<img width="620" alt="image" src="https://github.com/user-attachments/assets/0b3fbc6e-656f-4965-9f34-d520ea83a28c">](https://www.youtube.com/watch?v=usdFzVCe7NM)
 
 
+  ### 3D Modeling
+  Vanitas
+  
+  ![front_no_hat](https://github.com/user-attachments/assets/5310f531-3ddb-40cf-97bc-cc602c3d4467)
+
+
+  Avatar
+  
+  ![image](https://github.com/user-attachments/assets/dad5f59f-9315-41bf-9e73-2a34fc83eecc)
+  ![final2](https://github.com/user-attachments/assets/17025067-0374-4d01-a379-a3a2de18086a)
+  ![front_no_hat](https://github.com/user-attachments/assets/1dff9b28-8171-443f-8586-df16e7ff93e3)
+
+
+
+  
+
+
   
 
 
 
-Game Design
+### Game Design
 - [RPG Adventure Game: Blockzard (GitHub link)](https://github.com/JesseYang1017/Blockzard.git)
   
   Blockzard is a captivating RPG where players, as Blockzard, take on quests to save the village. The game features dynamic NPC interactions, completing quests, strategic monster battles, 
@@ -91,7 +109,7 @@ Game Design
 
 
 
-Coding
+### Coding
 - [Machine Learning (GitHub link)](https://github.com/JesseYang1017/machine_learning.git)
 
   Projects include implementing the A* algorithm for optimal pathfinding, applying clustering techniques for data grouping, developing Q-learning for reinforcement learning, using the MinMax algorithm for game strategy, and training 
