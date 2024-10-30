@@ -54,7 +54,7 @@ the mission.
 
   ### Avatar
   
-  <img width="420" alt="image" src="https://github.com/user-attachments/assets/dad5f59f-9315-41bf-9e73-2a34fc83eecc"> <img width="420" alt="final2" src="https://github.com/user-attachments/assets/17025067-0374-4d01-a379-a3a2de18086a"> <img width="420" alt="front_no_hat" src="https://github.com/user-attachments/assets/1dff9b28-8171-443f-8586-df16e7ff93e3">
+  <img width="420" alt="final2" src="https://github.com/user-attachments/assets/17025067-0374-4d01-a379-a3a2de18086a"> <img width="420" alt="front_no_hat" src="https://github.com/user-attachments/assets/1dff9b28-8171-443f-8586-df16e7ff93e3"> <img width="420" alt="image" src="https://github.com/user-attachments/assets/dad5f59f-9315-41bf-9e73-2a34fc83eecc"> 
 
 
 
