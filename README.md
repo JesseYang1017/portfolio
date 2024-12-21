@@ -16,9 +16,10 @@ Game Design, Certificate
 
 
 ## Projects
-### Research (REU Program, Athena - Duke University)
+### Research
 
 - [NIST Project (Github link)](https://github.com/widVE/NIST.git)
+- (REU Program, Athena - Duke University)
 
     This project addresses the complex challenges of indoor navigation and collaboration, particularly to support first responders in emergency situations. My contribution involved     implementing a 3D volumetric map in Unity to improve situational awareness and enable the commander to better visualize and direct the teams.
 
@@ -43,7 +44,8 @@ the mission.
   [<img width="620" alt="image" src="https://github.com/user-attachments/assets/0b3fbc6e-656f-4965-9f34-d520ea83a28c">](https://www.youtube.com/watch?v=usdFzVCe7NM)
 
 
-### Independent Studies Project - Shipwreck Exploration
+### Independent Studies Project 
+- Shipwreck Exploration
 
   **Click to view Unity demo**
   
