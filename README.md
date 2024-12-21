@@ -46,9 +46,9 @@ the mission.
 ### Independent Studies Project - Shipwreck Exploration
 
   **Click to view Unity demo**
-  
-  [<img width="620" alt="image" src="https://github.com/user-attachments/assets/8265bcbe-5163-4fe0-b1cd-96f4eac75ffb">](https://youtu.be/c_7iky1aCok)
-  
+  [<img width="620" alt="image" src="https://github.com/user-attachments/assets/9a5534ed-7387-4b1f-8cbb-5155f3cc89b6">](https://youtu.be/c_7iky1aCok)
+
+  **Blender Render Image**
   <img width="620" alt="final2" src="https://github.com/user-attachments/assets/a67331fa-c845-4f73-b4a3-595b17771c6b">
 
 
