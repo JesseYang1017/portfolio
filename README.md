@@ -51,6 +51,8 @@ Game Design, Certificate
 
 ### Independent Studies Project 
 - Shipwreck Exploration
+  
+  I am now pursuing an independent studies project with Professor Kevin Ponto in the Virtual Environments Group lab. This project focuses on an interactive underwater shipwreck exploration program for a CAVE system. Users take on the perspective of someone exploring a dark underwater environment with a dynamic light source to illuminate the shipwreck. The immersive experience emphasizes realistic light behavior, featuring a clear, focused region of visibility surrounded by shadows to replicate the challenges of underwater exploration. To bring this vision to life, I modeled a sunken ship in Blender and created an underwater environment by customizing materials and shaders in Unity. This project has allowed me to merge technical complexity with immersive design, perfectly embodying my passion for crafting engaging and believable virtual worlds.
 
   **Click to view Unity demo**
   
