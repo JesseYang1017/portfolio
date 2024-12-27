@@ -21,17 +21,20 @@ Game Design, Certificate
 - [NIST Project (Github link)](https://github.com/widVE/NIST.git)
 - (REU Program, Athena - Duke University)
 
-    This project addresses the complex challenges of indoor navigation and collaboration, particularly to support first responders in emergency situations. My contribution involved     implementing a 3D volumetric map in Unity to improve situational awareness and enable the commander to better visualize and direct the teams.
+    This project addressed the challenges of indoor navigation and collaboration in high-stakes emergency scenarios, such as supporting first responders in hazardous environments. My primary role was to design and implement an interactive 3D volumetric map in Unity, enabling commanders to visualize operations in real time and direct teams effectively.
 
-    In this setup, two teams operate inside a hazardous area, such as a burning building, while a remote commander oversees their operations. Each team member and the commander use HoloLens headsets for real-time data sharing and communication. Specifically, the search team, equipped with HoloLens 2 headsets, scans the environment, sending structural model data to the server and placing markers on critical features, like biohazard zones or victim locations.
+    My Contributions
+    Using Unity, I developed a 3D volumetric map that integrated real-time data from team members equipped with HoloLens 2 headsets. These team members scanned and meshed their surroundings, transmitting structural data and marking critical features like biohazard zones or victim locations to a central server. I integrated this incoming data into the map, adding interactive elements such as feature markers and navigation paths generated through Unity’s NavMesh.
 
-    The server manages an array of data, including maps, features, headset details, and navigation paths. With this setup, the commander spawn the volumetric map on a flat surface, like a 
-table. This map can be clipped within an adjustable volume, allowing the commander to view only selected portions, or manipulated freely by zooming and rotating. Real-time updates, such 
-as feature markers and the animated avatars of responders within the building, are streamed via a WebSocket connection.
+    The map allowed the commander to oversee operations by projecting it onto a flat surface, such as a table, where it could be manipulated through zooming, rotating, and clipping selected portions. I ensured that real-time updates, including responder positions and marker changes, were streamed seamlessly via WebSocket connections, providing a dynamic and immersive experience.
 
-    To direct responders efficiently, the commander can drag an avatar to a designated marker—such as a victim's location—prompting Unity's NavMesh to generate a navigation path. This path 
-displays both on the server and to the specific responder. By following the path, the responder can accurately reach the designated point, ensuring prompt and coordinated actions during 
-the mission.
+    One of the most impactful features I implemented was interactive navigation. By dragging an avatar to a marker on the map—such as a victim's location—the system generated a precise navigation path for responders. This path was displayed both to the commander and the designated responder, enabling efficient and coordinated actions.
+
+  Reflections
+    Working on this project brought me back to my roots in XR, the field that first inspired my interest in immersive design. It was deeply fulfilling to see how technologies like AR could be harnessed to address critical challenges, blending creativity with technical precision. This experience also sparked my curiosity about serious games—immersive, purpose-driven applications beyond entertainment—and strengthened my desire to explore how AR/VR can transform areas like disaster response, education, and professional training.
+
+
+
 
 
   **Click to view Unity demo**
