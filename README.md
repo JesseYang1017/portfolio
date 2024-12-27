@@ -31,7 +31,8 @@ Game Design, Certificate
 
     One of the most impactful features I implemented was interactive navigation. By dragging an avatar to a marker on the map—such as a victim's location—the system generated a precise navigation path for responders. This path was displayed both to the commander and the designated responder, enabling efficient and coordinated actions.
 
-  Reflections
+  ### Reflections
+  
     Working on this project brought me back to my roots in XR, the field that first inspired my interest in immersive design. It was deeply fulfilling to see how technologies like AR could be harnessed to address critical challenges, blending creativity with technical precision. This experience also sparked my curiosity about serious games—immersive, purpose-driven applications beyond entertainment—and strengthened my desire to explore how AR/VR can transform areas like disaster response, education, and professional training.
 
 
