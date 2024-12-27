@@ -24,6 +24,7 @@ Game Design, Certificate
     This project addressed the challenges of indoor navigation and collaboration in high-stakes emergency scenarios, such as supporting first responders in hazardous environments. My primary role was to design and implement an interactive 3D volumetric map in Unity, enabling commanders to visualize operations in real time and direct teams effectively.
 
     My Contributions
+  
     Using Unity, I developed a 3D volumetric map that integrated real-time data from team members equipped with HoloLens 2 headsets. These team members scanned and meshed their surroundings, transmitting structural data and marking critical features like biohazard zones or victim locations to a central server. I integrated this incoming data into the map, adding interactive elements such as feature markers and navigation paths generated through Unity’s NavMesh.
 
     The map allowed the commander to oversee operations by projecting it onto a flat surface, such as a table, where it could be manipulated through zooming, rotating, and clipping selected portions. I ensured that real-time updates, including responder positions and marker changes, were streamed seamlessly via WebSocket connections, providing a dynamic and immersive experience.
